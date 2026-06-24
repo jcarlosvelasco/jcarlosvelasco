@@ -2,7 +2,7 @@
 
 I'm Juan Carlos, a sofware engineer based in Spain.
 
-I build whatever I can imagine. Lately I have been working on exciting AI project, check them out!
+I build whatever I can imagine. Lately I have been working on exciting AI projects, check them out!
 
 I love building clean experiences that feel truly special.
 
